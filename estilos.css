@@ -1,0 +1,29 @@
+p {
+  color: red;
+  font-family: arial;
+}
+h1 {
+  background-color: yellow;
+  text-align: center;
+}
+h2 {
+  background-color: yellowgreen;
+  text-decoration: yellow;
+}
+ul {
+  color: aqua;
+  font-weight: bold;
+}
+.destacados {
+  text-align: justify;
+  background-color: blueviolet;
+}
+
+/*esto es un comentario en CSS*/
+
+#cajita {
+  width: 200px;
+  height: 200px;
+  background-color: chocolate;
+  text-align: center;
+}
